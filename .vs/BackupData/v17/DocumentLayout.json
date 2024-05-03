@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\SQLServer\\BackupData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4918A19-C587-495D-A7EE-8D2C29A7D69A}|BackupData\\BackupData.csproj|d:\\project\\sqlserver\\backupdata\\backupdata\\concrete\\exportcompression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4918A19-C587-495D-A7EE-8D2C29A7D69A}|BackupData\\BackupData.csproj|solutionrelative:backupdata\\concrete\\exportcompression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4918A19-C587-495D-A7EE-8D2C29A7D69A}|BackupData\\BackupData.csproj|d:\\project\\sqlserver\\backupdata\\backupdata\\datainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4918A19-C587-495D-A7EE-8D2C29A7D69A}|BackupData\\BackupData.csproj|solutionrelative:backupdata\\datainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataInfo.cs",
+              "DocumentMoniker": "D:\\Project\\SQLServer\\BackupData\\BackupData\\DataInfo.cs",
+              "RelativeDocumentMoniker": "BackupData\\DataInfo.cs",
+              "ToolTip": "D:\\Project\\SQLServer\\BackupData\\BackupData\\DataInfo.cs",
+              "RelativeToolTip": "BackupData\\DataInfo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:48:31.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExportCompression.cs",
+              "DocumentMoniker": "D:\\Project\\SQLServer\\BackupData\\BackupData\\Concrete\\ExportCompression.cs",
+              "RelativeDocumentMoniker": "BackupData\\Concrete\\ExportCompression.cs",
+              "ToolTip": "D:\\Project\\SQLServer\\BackupData\\BackupData\\Concrete\\ExportCompression.cs",
+              "RelativeToolTip": "BackupData\\Concrete\\ExportCompression.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwDIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:43:48.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
